@@ -9,4 +9,3 @@ def say_hello(request):
     return render(request, 'hello.html', {'name': 'Mosh'})
 # pull data from db 
 # send Email
-hasattr
